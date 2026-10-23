@@ -1,0 +1,6 @@
+{
+  "name": "Monochrome Studio — Junior Web Developer Portfolio",
+  "description": "Minimalist monochrome portfolio website for a Junior Web Developer featuring fluid Framer Motion page transitions, interactive case studies, dark mode toggle, and Spotify Current Vibe showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
